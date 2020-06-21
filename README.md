@@ -11,7 +11,7 @@ This project was bootstrapped with
 2. [computed](https://github.com/mobxjs/mobx#computed-values)
 3. [action](https://github.com/mobxjs/mobx#actions)
 
-### [mobx-react + mobx-react-lite](https://github.com/mobxjs/mobx-react-lite)
+### [mobx-react / mobx-react-lite](https://github.com/mobxjs/mobx-react-lite)
 
 1. [observer](https://github.com/mobxjs/mobx-react#observercomponent)
 2. [useLocalStore (hook)](https://github.com/mobxjs/mobx-react#uselocalstore-hook)
